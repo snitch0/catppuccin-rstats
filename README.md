@@ -15,6 +15,9 @@
   <img src="https://raw.githubusercontent.com/catppuccin/vscode/main/assets/ss.png"/>
 </p>
 
+## About
+
+This is a fork of catppuccin theme for VSCode aquires R language support.
 
 ## Usage
 
