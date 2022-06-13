@@ -30,7 +30,7 @@
                 "keyword.operator.comparison.r"
             ],
             "settings": {
-                "foreground": "#a6e3a1",
+                "foreground": "#F28FAD",
                 "fontStyle": "bold"
             }
         },
@@ -38,7 +38,7 @@
             "name": "pipe logical",
             "scope": "keyword.operator.logical.r",
             "settings": {
-                "foreground": "#a6e3a1",
+                "foreground": "#F28FAD",
                 "fontStyle": "bold"
             }
         },
@@ -48,7 +48,7 @@
                 "keyword.operator.other.r"
             ],
             "settings": {
-                "foreground": "#a6e3a1",
+                "foreground": "#F28FAD",
                 "fontStyle": "bold"
             }
         },
